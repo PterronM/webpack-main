@@ -1,3 +1,5 @@
 node_modules/
 
 dist/
+
+# ignora las carpetas que no queremos que las suba a la nube
